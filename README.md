@@ -1,0 +1,2 @@
+# sucklesssetup
+my suckless setup
