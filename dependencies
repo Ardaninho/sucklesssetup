@@ -11,3 +11,4 @@ pactl
 pulseaudio
 libxinerama
 libxft
+x11-libs
