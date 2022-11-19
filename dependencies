@@ -9,3 +9,5 @@ xwallpaper
 font-awesome
 pactl
 pulseaudio
+libxinerama
+libxft
