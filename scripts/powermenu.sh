@@ -1,4 +1,5 @@
 #!/bin/bash
+# DO NO USE. THIS IS A TESTING PURPOSE.
 ZENITY_TITLE="Power Menu"
 ZENITY_TEXT="Action:"
 poweroptions="Shutdown Reboot Hibernate Logout"
